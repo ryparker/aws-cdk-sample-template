@@ -15,8 +15,8 @@
     "destroy": "cdk destroy"
   },
   "dependencies": {
-    "@aws-cdk/core": "^1.123.0",
-    "aws-cdk": "^1.123.0"
+    "@aws-cdk/core": "latest",
+    "aws-cdk": "latest"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
