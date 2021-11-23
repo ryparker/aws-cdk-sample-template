@@ -1,4 +1,4 @@
-# AWS CDK Sample
+# AWS CDK (v2) Sample
 
 ## :rocket: Quick Start
 
